@@ -1,0 +1,2 @@
+# misitiocoreano
+Proyecto de tarea
